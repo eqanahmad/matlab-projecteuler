@@ -2,7 +2,6 @@ n1 = 1;
 n2 = 2;
 n3 = 3; 
 sum = 2;
-lim = 4e6;
 
 while n3<=4e6
     n3 = n1 + n2; 
