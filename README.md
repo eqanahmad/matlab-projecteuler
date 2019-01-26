@@ -13,5 +13,6 @@ Here are links to all the questions I have solved so far:
 - Question 7: https://projecteuler.net/problem=7 
 - Question 10: https://projecteuler.net/problem=10
 - Question 16: https://projecteuler.net/problem=16
+- Question 20: https://projecteuler.net/problem=20
 - Question 24: https://projecteuler.net/problem=24 
 - Question 29: https://projecteuler.net/problem=29
