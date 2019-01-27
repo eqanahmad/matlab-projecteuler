@@ -16,3 +16,4 @@ Here are links to all the questions I have solved so far:
 - Question 20: https://projecteuler.net/problem=20
 - Question 24: https://projecteuler.net/problem=24 
 - Question 29: https://projecteuler.net/problem=29
+- Question 48: https://projecteuler.net/problem=48
