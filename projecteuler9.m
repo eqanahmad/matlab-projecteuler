@@ -1,5 +1,3 @@
-
-
 a = 0;
 b = 0; 
 c = 0;
@@ -23,6 +21,7 @@ end
 
 fprintf("%d + %d + %d = %d\n", a,b,c, (a+b+c));
 fprintf("%d  * %d * %d = %d\n", a,b,c, (a*b*c));
+
 
 
             
