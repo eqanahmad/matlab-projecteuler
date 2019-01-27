@@ -17,3 +17,4 @@ Here are links to all the questions I have solved so far:
 - Question 24: https://projecteuler.net/problem=24 
 - Question 29: https://projecteuler.net/problem=29
 - Question 48: https://projecteuler.net/problem=48
+- Question 56: https://projecteuler.net/problem=56
