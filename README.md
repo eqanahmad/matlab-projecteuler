@@ -1,5 +1,5 @@
 # matlab-projecteuler
-This project will just be attempting to solve problems from projecteuler.net in the matlab language. Mainly just using brute force.  
+This project will just be attempting to solve problems from projecteuler.net in with Matlab.   
 
 Here are links to all the questions I have solved so far:  
 
